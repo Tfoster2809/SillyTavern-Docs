@@ -3,9 +3,11 @@ label: Android (Termux)
 route: /installation/android-(termux)/
 ---
 
+
 # Android (Termux) Installation
 
 SillyTavern can be run natively on Android phones using Termux.
+
 
 Please refer to this guide by ArroganceComplex#2659:
 
